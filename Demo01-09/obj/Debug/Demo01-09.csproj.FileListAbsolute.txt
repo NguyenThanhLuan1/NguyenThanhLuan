@@ -1,0 +1,13 @@
+D:\csdl\CTK43\Demo01-09\bin\Debug\Demo01-09.exe.config
+D:\csdl\CTK43\Demo01-09\bin\Debug\Demo01-09.exe
+D:\csdl\CTK43\Demo01-09\bin\Debug\Demo01-09.pdb
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01-09.csprojAssemblyReference.cache
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01_09.Properties.Resources.resources
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01-09.csproj.GenerateResource.cache
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01-09.csproj.CoreCompileInputs.cache
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01-09.exe
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01-09.pdb
+D:\csdl\CTK43\Demo01-09\bin\Debug\Data\data.txt
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01_09.AddFeedForm.resources
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01_09.MainForm.resources
+D:\csdl\CTK43\Demo01-09\obj\Debug\Demo01_09.Components.NewsControl.resources
